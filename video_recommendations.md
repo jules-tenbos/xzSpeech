@@ -65,8 +65,65 @@ When a disturbing video emerged showing soldiers executing civilians in Cameroon
 
 ---
 
+## Alternative Options: Commentary/Explanation Videos
+
+These videos explain the fake news phenomenon rather than showing actual examples:
+
+### Option A: TED-Ed - "Why People Fall for Misinformation"
+
+| Attribute | Details |
+|-----------|---------|
+| Speaker | Joseph Isaac |
+| Duration | ~5 minutes |
+| Format | Animated educational video |
+| Source | TED-Ed |
+
+**Description:**
+This animated short explains the psychology behind why fake information spreads and why people believe it. It uses the classic example of the debunked "tongue taste map" to illustrate how misconceptions become accepted as fact.
+
+**Why it works:**
+- Professional, high-quality animation
+- Suitable for all audiences
+- Educational without being preachy
+- Engaging visual style
+
+**Link:** https://www.ted.com/talks/joseph_isaac_why_people_fall_for_misinformation
+
+---
+
+### Option B: TED Talk - "How We Can Protect Truth in the Age of Misinformation"
+
+| Attribute | Details |
+|-----------|---------|
+| Speaker | Sinan Aral (MIT Data Scientist) |
+| Duration | ~17 minutes (use opening 3-5 min segment) |
+| Format | Live talk with slides |
+| Source | TED |
+
+**Description:**
+Based on one of the largest scientific studies on misinformation, this talk explains how fake news spreads faster than real news and identifies strategies to combat it. The opening 3-5 minutes provide compelling statistics and real-world examples.
+
+**Why it works:**
+- Data-driven, credible source
+- International scope
+- Strong hook for audience engagement
+- Academic credibility (MIT)
+
+**Link:** https://www.ted.com/talks/sinan_aral_how_we_can_protect_truth_in_the_age_of_misinformation
+
+---
+
+### Option C: CNN - "Is That Video Real?" Interactive
+
+A multimedia piece demonstrating how journalists verify videos and identify manipulated media. Shows real examples of fake content being debunked.
+
+**Link:** https://www.cnn.com/interactive/2020/10/us/manipulated-media-tech-fake-news-trnd/
+
+---
+
 ## Notes
 - Check usage rights before streaming publicly
 - BuzzFeed video is widely used for educational purposes
 - BBC content may require permission for commercial use
-- Both videos available on YouTube for preview
+- TED videos are freely available for educational use
+- All videos available on YouTube or linked platforms for preview
